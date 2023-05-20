@@ -1,7 +1,7 @@
 # L-voice-filter
 L is a famous character from the goat anime Death Note. As he is a detective in the anime, he occasionally uses a voice filter for anonymous calls. I made a python code to re-create that filter.
 
-![L-voice-filter](https://socialify.git.ci/nabileus/L-voice-filter/image?description=1&descriptionEditable=&font=KoHo&forks=1&issues=1&language=1&name=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Auto)
+![L-voice-filter](https://socialify.git.ci/nabileus/L-voice-filter/image?description=1&descriptionEditable=A%20python%20code%20to%20re-create%20the%20filter%20of%20L%20from%20death%20note%20(anime%20series)&font=KoHo&forks=1&issues=1&language=1&name=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Auto)
 
 ## Run Locally
 
